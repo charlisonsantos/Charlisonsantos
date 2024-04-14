@@ -7,8 +7,8 @@
 - ⏳ passatempo: jogos online, xadrez, cubo mágico, origamis, croche etc.
 - 🏋🏼 hobbys: voleiball, basqueteball, academia, natação.
 ##
-<h3 align="left">Converse comigo:</h3>
+<h3 align="left">Meios de contato:</h3>
 <div>
-<a href="https://instagram.com/charli_181_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%FF0000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/charli_181_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:francisco.charlison09@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
