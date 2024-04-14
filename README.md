@@ -3,9 +3,9 @@
 
 
 - 📚 estudando: Java e JavaScript
-- 😄 Pronouns: Ele/Dele
+- 👨🏻‍💻 Pronouns: Ele/Dele
 - ⏳ passatempo: jogos online, xadrez, cubo mágico, origamis, croche etc.
-- 🏋🏼 hobbys: voleiball, basqueteball, academia, natação.
+- 🏋🏼 esportes: voleiball, basqueteball, academia, natação.
 ##
 <h3 align="left">Meios de contato:</h3>
 <div>
