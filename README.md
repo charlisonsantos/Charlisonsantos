@@ -14,9 +14,9 @@
 </div>
 
 <h3 align="center">Trabalhos de POO:</h3>
-<p>- [trabalho 01]()</p>
-<p>- [trabalho 02]()</p>
-<p>- [trabalho 03]()</p>
+- [trabalho 01](https://github.com/charlisonsantos/Disc-POO-2024.1-T01.git)
+- [trabalho 02](https://github.com/charlisonsantos/Disc-P00-2024.1-T02)
+- [trabalho 03]()
 
 ##
 <h3 align="left">Meios de contato:</h3>
