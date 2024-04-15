@@ -13,6 +13,11 @@
 <img width=40% align="" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Charlisonsantos&show_icons=true&theme=dark&layout=compact" />
 </div>
 
+<h3 align="center">Trabalhos de POO:</h3>
+<p>- [trabalho 01]()</p>
+<p>- [trabalho 02]()</p>
+<p>- [trabalho 03]()</p>
+
 ##
 <h3 align="left">Meios de contato:</h3>
 <div>
@@ -20,9 +25,6 @@
 <a href = "mailto:francisco.charlison09@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<h3 align="left">Trabalhos de POO:</h3>
-- [trabalho 01]()
-- [trabalho 02]()
-- [trabalho 03]()
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer"/>
