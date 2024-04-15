@@ -7,9 +7,10 @@
 - ⏳ passatempo: jogos online, xadrez, cubo mágico, origamis, croche etc.
 - 🏋🏼 esportes: voleiball, basqueteball, academia, natação.
 ##
-<div align="" style="margin-bottom:100px">
-<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Charlisonsantos&theme=dark&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Charlisonsantos&show_icons=true&theme=dark&layout=compact" />
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlisonsantos&show_icons=true&theme=dark&count_private=true)
+<div
+<img width=55% align="" src="https://github-readme-streak-stats.herokuapp.com?user=Charlisonsantos&theme=dark&mode=weekly" />
+<img width=40% align="" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Charlisonsantos&show_icons=true&theme=dark&layout=compact" />
 </div>
 
 ##
