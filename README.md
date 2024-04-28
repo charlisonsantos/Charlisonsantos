@@ -1,11 +1,10 @@
-## Ola! eu me chamo charlison 🤓
+## hello! i am charlison 🤓
 
 
-
-- 📚 estudando: Java e JavaScript
-- 👨🏻‍💻 Pronouns: Ele/Dele
-- ⏳ passatempo: jogos online, xadrez, cubo mágico, origamis, croche etc.
-- 🏋🏼 esportes: voleiball, basqueteball, academia, natação.
+* 📚 studying: Java and JavaScript
+* 👨🏻‍💻 Pronouns: ele/dele
+* ⏳hobby: online games, chess, Rubik's cube, origami, crocheting, etc.
+* 🏋🏼 sports: volleyball, basketball, gym and swimming.
 ##
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlisonsantos&show_icons=true&theme=dark&count_private=true)
 
