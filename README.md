@@ -8,7 +8,6 @@
 
 * 📚 studying: Java and JavaScript
 * 👨🏻‍💻 Pronouns: ele/dele
-* ⏳ hobby: online games, chess, Rubik's cube, origami, crocheting, etc.
 * 🏋🏼 sports: volleyball, basketball, gym and swimming.
 ##
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlisonsantos&show_icons=true&theme=dark&count_private=true)
