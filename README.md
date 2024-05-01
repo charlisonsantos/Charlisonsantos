@@ -10,7 +10,7 @@
 
 <div
 <img width=55% align="" src="https://github-readme-streak-stats.herokuapp.com?user=Charlisonsantos&theme=dark&mode=weekly" />
-<img width=40% align="" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Charlisonsantos&show_icons=true&theme=dark&layout=compact" />
+<img width=45% align="" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Charlisonsantos&show_icons=true&theme=dark&layout=compact" />
 </div>
 
 ##
