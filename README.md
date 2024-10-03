@@ -18,8 +18,13 @@
 <img width=45% align="" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Charlisonsantos&show_icons=true&theme=dark&layout=compact" /> 
 </div>
 
-<h2>estudando linguagens:</h2>
+<h2>Estudando linguagens:</h2>
 
+![CSS](https://icongr.am/devicon/css3-original.svg?size=50&color=000000)
+![Html](https://icongr.am/devicon/html5-original.svg?size=50&color=000000)
+![Phyton](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
+![Java](https://icongr.am/devicon/java-original.svg?size=50&color=currentColor)
+![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=000000)
 ##
 
 <h3 align="center">Meios de contato:</h3>
