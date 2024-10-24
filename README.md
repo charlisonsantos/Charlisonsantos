@@ -6,8 +6,7 @@
 
 ##
 
-* 📚 studying: Java and JavaScript
-* 👨🏻‍💻 Pronouns: ele/dele
+* 👨🏻‍💻 Pronouns: Ele/Dele
 * 🏋🏼 sports: volleyball, basketball, gym and swimming.
 ##
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlisonsantos&show_icons=true&theme=dark&count_private=true)
@@ -18,7 +17,7 @@
 <img width=45% align="" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Charlisonsantos&show_icons=true&theme=dark&layout=compact" /> 
 </div>
 
-<h2>Estudando linguagens:</h2>
+<h2>Studying Languages:</h2>
 
 ![CSS](https://icongr.am/devicon/css3-original.svg?size=50&color=000000)
 ![Html](https://icongr.am/devicon/html5-original.svg?size=50&color=000000)
@@ -27,7 +26,7 @@
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=000000)
 ##
 
-<h3 align="center">Meios de contato:</h3>
+<h3 align="center">Means of Contact:</h3>
 <p align="center">
 <a href="https://instagram.com/charli_181_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /a>
 <a href = "mailto:francisco.charlison09@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /a>
