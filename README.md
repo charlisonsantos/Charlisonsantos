@@ -19,19 +19,14 @@
 
 <h2>Studying Languages:</h2>
 
-![CSS](https://icongr.am/devicon/css3-original.svg?size=50&color=000000)
-![Html](https://icongr.am/devicon/html5-original.svg?size=50&color=000000)
-![Phyton](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
-![Java](https://icongr.am/devicon/java-original.svg?size=50&color=currentColor)
-![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=000000)
-![swift](https://icongr.am/devicon/swift-original.svg?size=50&color=currentColor)
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css,html,java,javascript,python,swift&theme=dark&perline=50" alt="My Skills" /></a>
 ##
 
 <h3 align="center">Means of Contact:</h3>
 <p align="center">
 <a href= "https://instagram.com/charli_181_"> <img src="https://skillicons.dev/icons?i=instagram&theme=dark&perline=15"> </a>
 <a href = "mailto:francisco.charlison09@aluno.ifce.edu.br"> <img src="https://skillicons.dev/icons?i=gmail&theme=dark&perline=15"> </a>
-<a href = "https://www.linkedin.com/in/charlison-santos/" > <img src = "https://icongr.am/devicon/linkedin-original.svg?size=50&color=currentColor"> </a>
+<a href = "https://www.linkedin.com/in/charlison-santos/" > <img src = "https://skillicons.dev/icons?i=linkedin&theme=dark&perline=15"> </a>
 
 </p>
 
