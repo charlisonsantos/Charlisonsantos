@@ -6,7 +6,6 @@
 
 ##
 
-* 👨🏻‍💻 Pronouns: Ele/Dele
 * 🏋🏼 sports: volleyball, basketball, gym and swimming.
 ##
 
