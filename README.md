@@ -11,6 +11,7 @@
 <img width=45% align="" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Charlisonsantos&show_icons=true&theme=dark&layout=compact" /> 
 </div>
 
+
 <h2>Studying Languages:</h2>
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css,html,java,javascript,python,swift&theme=dark&perline=50" alt="My Skills" /></a>
