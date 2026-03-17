@@ -19,7 +19,7 @@
 
 <h3 align="center">Means of Contact:</h3>
 <p align="center">
-<a href= "https://instagram.com/charli_181"> <img src="https://skillicons.dev/icons?i=instagram&theme=dark&perline=15"> </a>
+<a href= "https://instagram.com/charli_181_"> <img src="https://skillicons.dev/icons?i=instagram&theme=dark&perline=15"> </a>
 <a href = "mailto:francisco.charlison09@aluno.ifce.edu.br"> <img src="https://skillicons.dev/icons?i=gmail&theme=dark&perline=15"> </a>
 <a href = "https://www.linkedin.com/in/charlison-santos/" > <img src = "https://skillicons.dev/icons?i=linkedin&theme=dark&perline=15"> </a>
 
